@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/drawable/bg_main.xml" value="0.138" />
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/drawable/support_button.xml" value="0.138" />
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/layout/action_bar_layout.xml" value="0.109375" />
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/layout/activity_support.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/layout/custom_row.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/layout/support_actionbar_layout.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/menu/main_menu.xml" value="0.2078125" />
+        <entry key="..\:/Users/HARJEET/AndroidStudioProjects/ConorMcGregorTrashTalk/app/src/main/res/menu/search_menu.xml" value="0.24739583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

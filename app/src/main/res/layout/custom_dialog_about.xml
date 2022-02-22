@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="380dp"
+    android:background="#6B415F"
+    android:orientation="vertical"
+    android:paddingLeft="15dp"
+    android:paddingTop="20dp"
+    android:paddingBottom="10dp"
+    android:paddingRight="15dp">
+
+    <TextView
+        android:id="@+id/about_text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginBottom="10dp"
+        android:text="The largest collection of Mcgregor Trash Talk."
+        android:textColor="#faf7f9"
+        android:textSize="16dp" />
+
+
+    <TextView
+        android:id="@+id/about_text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginBottom="10dp"
+        android:text="I don't own the copyrights."
+        android:textAlignment="center"
+        android:textColor="#faf7f9"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/about_text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginBottom="10dp"
+        android:text="Share it with your friends."
+        android:textAlignment="center"
+        android:textColor="#faf7f9"
+        android:textSize="16dp" />
+    <TextView
+        android:id="@+id/about_text4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginBottom="10dp"
+        android:text="If you like it, rate this app on the Google Play"
+        android:textAlignment="center"
+        android:textColor="#faf7f9"
+        android:textSize="16dp" />
+
+    <Button
+        android:id="@+id/btn_ok"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="OK" />
+
+</LinearLayout>
